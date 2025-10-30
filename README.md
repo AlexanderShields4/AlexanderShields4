@@ -2,7 +2,7 @@
 I'm a developer interested in Data Science, Economics, and automation.
 
 ## 🔧 Technologies & Tools
-- Python | Java | Linux | Git | Streamlit
+- Python | Java | Linux | Git 
 
 ## 🌱 What I'm working on
 - Building personal finance dashboards
